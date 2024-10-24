@@ -1,0 +1,13 @@
+model_name,LATENCY
+lora_type2-8-50E64B_A,5.165
+lora_type2-8-100E64B_A,4.183
+lora_type2-128-50E64B_A,9.513
+lora_type2-128-100E64B_A,10.175
+lora_type2-256-50E64B_A,12.146
+lora_type2-256-100E64B_A,7.568
+lora_type3-256-100E64B_A_old,5.433
+lora_type3-256-200E64B_A,4.604
+lora_type3-256-300E64B_A,9.34
+lora_type3-256-100E32B_A,4.163
+lora_type3-256-100E128B_A,4.806
+lora_type3-256-150E32B_A,6.914

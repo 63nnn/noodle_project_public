@@ -1,0 +1,13 @@
+model_name,BLEU
+lora_type2-8-50E64B_A,0.2275
+lora_type2-8-100E64B_A,0.2432
+lora_type2-128-50E64B_A,0.212
+lora_type2-128-100E64B_A,0.1641
+lora_type2-256-50E64B_A,0.279
+lora_type2-256-100E64B_A,0.4035
+lora_type3-256-100E64B_A_old,0.4943
+lora_type3-256-200E64B_A,0.5675
+lora_type3-256-300E64B_A,0.3762
+lora_type3-256-100E32B_A,0.5454
+lora_type3-256-100E128B_A,0.5483
+lora_type3-256-150E32B_A,0.5775

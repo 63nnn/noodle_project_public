@@ -1,0 +1,15 @@
+# data set for llm memo
+
+## 1F guide
+
+* 157 Prompts
+* estimate
+> round A:128 Prompts
+> round B:100 Prompts
+
+## 2F
+
+* type3: 206 Prompts
+* estimate
+> round A: 100 Prompts
+> round B: 100 Prompts
