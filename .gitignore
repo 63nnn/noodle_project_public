@@ -1,0 +1,6 @@
+__pycache__
+*.log.csv
+private.json
+*.wav
+*.m4a
+privateSetting.json
