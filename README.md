@@ -47,12 +47,12 @@
 
 ### 開發環境、工具
 
-> vacs
-> PC
-> postman
-> wandb
-> text-generation-webui
-> discord Bot
+> * vacs
+> * PC
+> * postman
+> * wandb
+> * text-generation-webui
+> * discord Bot
 
 ### 資料集設計
 
